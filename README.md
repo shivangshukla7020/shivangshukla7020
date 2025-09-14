@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Shivang</h1>
-<h3 align="center">Aspiring Software Engineer | Backend & System Design Enthusiast</h3>
+<h3 align="center">Backend & System Design Enthusiast</h3>
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shivangshukla7020/shivangshukla7020/master/coding.gif">
