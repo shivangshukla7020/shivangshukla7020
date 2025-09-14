@@ -80,10 +80,10 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-5★_Java-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shivangshukla201)
 
 <!-- Hackerrank Certifications -->
-[![Hackerrank Certifications](https://img.shields.io/badge/Java_Certifications-4-green?style=for-the-badge&logo=java&logoColor=white)](https://www.linkedin.com/in/shivangshukla201/)
+[![Hackerrank Certifications](https://img.shields.io/badge/Hackerrank_Certifications-4-green?style=for-the-badge&logo=java&logoColor=white&cacheSeconds=1)](https://www.hackerrank.com/profile/shivangshukla201)
 
 <!-- Top Projects -->
-[![Distributed File Sharing](https://img.shields.io/badge/Distributed_File_Sharing-Java-orange?style=for-the-badge&logo=java&logoColor=white)](https://github.com/shivangshukla7020/DistributedFileSharingSystem)
+[![Distributed File Sharing System](https://img.shields.io/badge/Distributed_File_Sharing_System-Java%20%2B%20Distributed%20Systems-orange?style=for-the-badge&logo=java&logoColor=white&cacheSeconds=1)](https://github.com/shivangshukla7020/DistributedFileSharingSystem)
 
 [![Smart Seating Planner](https://img.shields.io/badge/Smart_Seating_Planner-React%20%2B%20Optimization-blue?style=for-the-badge&logo=react&logoColor=white)](https://github.com/shivangshukla7020/SmartSeatingPlanner)
 
