@@ -1,10 +1,12 @@
-## 👋 Hello, I'm Shivang Shukla
+<h1 align="center">Hey Everyone 👋, I'm Shivang</h1>
+<h3 align="center">Aspiring Software Engineer | Backend & System Design Enthusiast</h3>
 
-Aspiring Software Engineer | Backend & System Design Enthusiast
+# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shivangshukla7020/shivangshukla7020/master/coding.gif">
 
-I'm currently a B.Tech Computer Science student at GLA University, Mathura, with a passion for designing scalable backend systems and exploring distributed computing. I enjoy solving complex problems, contributing to open-source projects, and learning new technologies that challenge conventional thinking.
+🔭 I enjoy working on distributed backend systems and full stack development  
+🌱 Currently learning advanced algorithms, system design principles, and scalable architectures  
 
-🔭 I enjoy working on distributed backend systems  
-🌱 Learning advanced algorithms, full stack development, and scalable system design principles  
+👨‍💻 All of my projects are available at [GitHub](https://github.com/shivangshukla7020)   
 📫 Reach me at [shivangshukla201@gmail.com](mailto:shivangshukla201@gmail.com)  
-🔗 Connect with me on [LinkedIn](https://linkedin.com/in/shivangshukla201)
+📄 Know more about my experiences on [LinkedIn](https://linkedin.com/in/shivangshukla201)
