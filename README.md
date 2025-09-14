@@ -4,7 +4,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/shivangshukla7020/shivangshukla7020/master/coding.gif">
 
-🔭 I enjoy working on distributed backend systems and full stack development  
+🔭 I enjoy working on distributed backend systems and full stack development
 🌱 Currently learning advanced algorithms, system design principles, and scalable architectures  
 
 👨‍💻 All of my projects are available at [GitHub](https://github.com/shivangshukla7020)   
